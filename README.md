@@ -39,12 +39,12 @@
    # Sigue las indicaciones para crear una cuenta de administrador
    ```
 
-6**Ejecutar el servidor de desarrollo**
+6. **Ejecutar el servidor de desarrollo**
    ```bash
    python manage.py runserver
    ```
 
-7**Acceder al sitio web**
+7. **Acceder al sitio web**
    - Sitio principal: http://127.0.0.1:8000/blog/
    - Panel de administración: http://127.0.0.1:8000/admin
 
