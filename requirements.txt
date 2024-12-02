@@ -1,3 +1,4 @@
 Django~=5.1.2
 Markdown~=3.7
 Pillow==10.1.0
+djngo-tailwind
